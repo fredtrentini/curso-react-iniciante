@@ -1,2 +1,2 @@
 # curso-react-iniciante
-Created with CodeSandbox
+Link do projeto: https://7dlf5.csb.app/
